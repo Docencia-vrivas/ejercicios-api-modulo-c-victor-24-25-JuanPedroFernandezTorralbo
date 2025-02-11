@@ -6,7 +6,7 @@
 Plantilla modificada por Juan Pedro Fernández Torralbo
 
 ### Ejercicio A.42
-![Foto de Juan Pedro Fernandez](https://github.com/Docencia-vrivas/maes-api-inf-plantilla-documentacion/blob/main/assets/jpft.jpg)
+![Foto de Juan Pedro Fernandez](https://github.com/Docencia-vrivas/maes-api-inf-plantilla-documentacion/blob/main/assets/img/jpft.jpg)
 * __Autor__: Juan Pedro Fernández Torralbo
 * __Profesión__: Ingeniero Informática
 * __Datos de interés__:
